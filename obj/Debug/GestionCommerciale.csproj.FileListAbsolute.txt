@@ -1,0 +1,17 @@
+C:\Users\Naima\Desktop\GestionCommerciale\bin\Debug\GestionCommerciale.exe.config
+C:\Users\Naima\Desktop\GestionCommerciale\bin\Debug\GestionCommerciale.exe
+C:\Users\Naima\Desktop\GestionCommerciale\bin\Debug\GestionCommerciale.pdb
+C:\Users\Naima\Desktop\GestionCommerciale\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Naima\Desktop\GestionCommerciale\bin\Debug\Guna.UI2.dll
+C:\Users\Naima\Desktop\GestionCommerciale\obj\Debug\GestionCommerciale.csproj.AssemblyReference.cache
+C:\Users\Naima\Desktop\GestionCommerciale\obj\Debug\GestionCommerciale.csproj.SuggestedBindingRedirects.cache
+C:\Users\Naima\Desktop\GestionCommerciale\obj\Debug\GestionCommerciale.Connexion.resources
+C:\Users\Naima\Desktop\GestionCommerciale\obj\Debug\GestionCommerciale.Properties.Resources.resources
+C:\Users\Naima\Desktop\GestionCommerciale\obj\Debug\GestionCommerciale.csproj.GenerateResource.cache
+C:\Users\Naima\Desktop\GestionCommerciale\obj\Debug\GestionCommerciale.csproj.CoreCompileInputs.cache
+C:\Users\Naima\Desktop\GestionCommerciale\obj\Debug\GestionCommerciale.csproj.CopyComplete
+C:\Users\Naima\Desktop\GestionCommerciale\obj\Debug\GestionCommerciale.exe
+C:\Users\Naima\Desktop\GestionCommerciale\obj\Debug\GestionCommerciale.pdb
+C:\Users\Naima\Desktop\GestionCommerciale\obj\Debug\GestionCommerciale.Articles.resources
+C:\Users\Naima\Desktop\GestionCommerciale\obj\Debug\GestionCommerciale.Categories.resources
+C:\Users\Naima\Desktop\GestionCommerciale\obj\Debug\GestionCommerciale.Fournisseurs.resources
