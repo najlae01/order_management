@@ -19,7 +19,7 @@ namespace GestionCommerciale
 
         public Functions()
         {
-            ConString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Naima\\Documents\\GestionCommercialeBD.mdf;Integrated Security=True;Connect Timeout=30";
+            ConString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=GestionCommercialeBD.mdf;Integrated Security=True;Connect Timeout=30";
             Con = new SqlConnection(ConString);
             Cmd = new SqlCommand();
             Cmd.Connection = Con;
